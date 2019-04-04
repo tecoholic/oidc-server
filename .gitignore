@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+# Pycharm and other jetbrains ide folder
+.idea/*

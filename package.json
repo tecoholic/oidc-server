@@ -1,0 +1,29 @@
+{
+  "name": "oidc-server",
+  "version": "0.0.1",
+  "description": "An OpenID Connect server based on node-oidc-provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tecoholic/oidc-server.git"
+  },
+  "keywords": [
+    "oidc",
+    "openid",
+    "connect",
+    "sso"
+  ],
+  "author": "Arunmozhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tecoholic/oidc-server/issues"
+  },
+  "homepage": "https://github.com/tecoholic/oidc-server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "oidc-provider": "^5.5.5"
+  }
+}
